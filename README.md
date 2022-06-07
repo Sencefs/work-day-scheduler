@@ -11,8 +11,9 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
+Screenshot of Deloyed Application:![image](https://user-images.githubusercontent.com/100245563/172334235-3ce21a41-a872-428b-8130-4dace9cd6083.png)
 
-## Acceptance Criteria
+
 
 ```
 GIVEN I am using a daily planner to create a schedule
@@ -30,18 +31,6 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
-
-![Work Day Scheduler app with color-coded time slots shows a new event being typed in the 5PM slot.](./Assets/05-third-party-apis-homework-demo.gif)
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# work-day-scheduler
